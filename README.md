@@ -1,2 +1,2 @@
 # hardware-learning-log
-学习工作的成长日志记录
+工作学习的成长日志记录
