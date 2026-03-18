@@ -10,7 +10,7 @@ CAP + 介质 + 容值 + 精度 + 耐压 + CH封装 + H厚度 + RO
 例：CAP X5R 22uF +/-20% 25V CH0805 H1.45mm RO
 
 2.  **电阻（RES）**
-RES MF + 阻值 + 精度 + 功率 + CH封装 + H厚度 + RO
+RES MF（类型） + 阻值 + 精度 + 功率 + CH封装 + H厚度 + RO
 例：RES MF 0R +/-5% 1/16W CH0402 H0.4mm RO
 
 3.  **NTC**
